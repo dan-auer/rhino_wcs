@@ -1,6 +1,6 @@
 # rhino_wcs
 
-| Icon | Macro |
+| XY | Macro |
 |------|-------|
 |<img src="svg/01.svg">|`! _SetView _World _Bottom _Tiltview _Angle  90`|
 |<img src="svg/02.svg">|`! _SetView _World _Bottom _Tiltview _Angle   0`|
@@ -11,7 +11,7 @@
 |<img src="svg/07.svg">|`! _SetView _World _Top _Tiltview _Angle 180`|
 |<img src="svg/08.svg">|`! _SetView _World _Top _Tiltview _Angle 270`|
 
-| Icon | Macro |
+| XZ | Macro |
 |------|-------|
 |<img src="svg/09.svg">|`! _SetView _World _Back _Tiltview _Angle 270`|
 |<img src="svg/10.svg">|`! _SetView _World _Back _Tiltview _Angle 180`|
@@ -22,7 +22,7 @@
 |<img src="svg/15.svg">|`! _SetView _World _Front _Tiltview _Angle 180`|
 |<img src="svg/16.svg">|`! _SetView _World _Front _Tiltview _Angle 270`|
 
-| Icon | Macro |
+| YZ | Macro |
 |------|-------|
 |<img src="svg/17.svg">|`! _SetView _World _Left _Tiltview _Angle 270`|
 |<img src="svg/18.svg">|`! _SetView _World _Left _Tiltview _Angle 180`|
