@@ -2,7 +2,7 @@
 
 | XY | Macro |
 |------|-------|
-|<img src="svg/01.svg">|`! _SetView _World _Bottom _Tiltview _Angle  90 '_CPlane _3Point 0,0,0 _Z 0,0,-1`|
+|<img src="svg/01.svg">|`! _SetView _World _Bottom _Tiltview _Angle  90 '_CPlane _3Point 0,0,0 _Z 0,0,-1`|<img src="img/01.jpg">|
 |<img src="svg/02.svg">|`! _SetView _World _Bottom _Tiltview _Angle   0 '_CPlane _3Point 0,0,0 _Z 0,0,-1`|
 |<img src="svg/03.svg">|`! _SetView _World _Bottom _Tiltview _Angle 270 '_CPlane _3Point 0,0,0 _Z 0,0,-1`|
 |<img src="svg/04.svg">|`! _SetView _World _Bottom _Tiltview _Angle 180 '_CPlane _3Point 0,0,0 _Z 0,0,-1`|
